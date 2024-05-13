@@ -1,8 +1,10 @@
 ## Etape à suivre pour lancer le projet
 1. Cloner le projet
-2. Installer les dépendances
-3. Lancer le projet
-4. Enjoy
+2. Créer et importer la base de données dans votre serveur MySQL (Vous trouverez le fichier sql dans le dossier backup-db)
+3. Configurer le fichier Database.php dans le dossier app/config avec vos informations de connexion à la base de données
+4. Installer les dépendances
+5. Lancer le projet
+6. Enjoy
 
 ## Pour installer les dépendances du projet, exécutez la commande suivante :
 1. cd /path/to/project
