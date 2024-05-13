@@ -42,3 +42,6 @@ Un produit a un nom, courte description, un prix en $, un type ( beauté, alimen
 - Composer
 - Bootstrap 5
 - MySQL
+
+## Bonus
+Inclure un résumé du coût total des produits
