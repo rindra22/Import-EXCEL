@@ -14,12 +14,12 @@
     <div class="row">
       <h1 class="d-flex justify-content-center my-4">Liste de produits</h1>
       <div class="d-flex justify-content-center">
-        <form action="public/index.php?p=import" class="d-flex" method="post" enctype="multipart/form-data">
+        <form action="index.php?p=import" class="d-flex" method="post" enctype="multipart/form-data">
           <div class="mt-2">
             <input type="file" name="file" class="form-control" required>
           </div>
           <div class="ms-2">
-            <button type="submit" class="btn btn-primary my-2">Import</button>
+            <button type="submit" class="btn btn-primary my-2">Importer</button>
           </div>
         </form>
       </div>

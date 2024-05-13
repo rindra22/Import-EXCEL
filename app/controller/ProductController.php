@@ -11,7 +11,7 @@ class ProductController{
         $product = new Product();
         $products = $product->getAll();
         
-        return Render::view('product/index', ['products' => $products]);
+        return Render::view('product/index', compact('products'));
     }
 
 }

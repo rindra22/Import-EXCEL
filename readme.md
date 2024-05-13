@@ -22,6 +22,7 @@ php -S localhost:8000
 
 ## Voici les captures d'écran de l'application
 
+<img src="public/screenshots/import_screen_2.png" alt="list_screen" width="100%"/>
 <img src="public/screenshots/import_screen.png" alt="import_screen" width="100%"/>
 
 
