@@ -1,0 +1,18 @@
+{
+    "name": "import/rindra22",
+    "description": "Import excel",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rindra22",
+            "email": "rindradev1112@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^2.0"
+    }
+}
