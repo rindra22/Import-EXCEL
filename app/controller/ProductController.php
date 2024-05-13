@@ -8,6 +8,7 @@ use app\utils\Render;
 class ProductController{
     
     public function index(){
+        
         $product = new Product();
         $products = $product->getAll();
         

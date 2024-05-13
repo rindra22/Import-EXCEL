@@ -8,6 +8,7 @@ use app\service\Import;
 class ImportProductController{
 
     public function import($path){
+        
         $import = new Import();
         $data = $import->readExcel($path);
         $product = new Product();

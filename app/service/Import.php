@@ -7,6 +7,13 @@ use PhpOffice\PhpSpreadsheet\IOFactory;
 require '../vendor/autoload.php';
 
 class Import{
+
+  /**
+   * Read excel file
+   * 
+   * @param string $path
+   * @return array
+  */
       
   public function readExcel(string $path){
     $createReader = IOFactory::createReader('Xlsx');
