@@ -4,7 +4,7 @@
 3. Lancer le projet
 4. Enjoy
 
-## Pour installer les dépendances du projet utiliser la commande suivante
+## Pour installer les dépendances du projet, exécutez la commande suivante :
 1. cd /path/to/project
 2. Composer install
 
@@ -19,6 +19,10 @@ php -S localhost:8000
 ## Pour accéder à l'application
 1. Ouvrir un navigateur
 2. Taper l'url suivante : http://localhost:8000
+
+## Voici les captures d'écran de l'application
+
+<img src="public/screenshots/import_screen.png" alt="import_screen" width="100%"/>
 
 
 ### Détails du projet

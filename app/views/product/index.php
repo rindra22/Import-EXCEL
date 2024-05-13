@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Liste Produits</title>
+  <title>Liste de produits</title>
   <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet">
   <link href="https://cdn.datatables.net/2.0.7/css/dataTables.bootstrap5.css" rel="stylesheet">
 </head>
@@ -12,7 +12,7 @@
 <body>
   <div class="container">
     <div class="row">
-      <h1 class="d-flex justify-content-center my-4">Liste Produits</h1>
+      <h1 class="d-flex justify-content-center my-4">Liste de produits</h1>
       <div class="d-flex justify-content-center">
         <form action="public/index.php?p=import" class="d-flex" method="post" enctype="multipart/form-data">
           <div class="mt-2">
